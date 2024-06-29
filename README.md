@@ -4,7 +4,7 @@ A passionate web developer from Thailand
 
 - 🌍 I'm based in Phrae, Thailand
 - ✉️ You can contact me at [narathip2002@outlook.co.th](mailto:narathip2002@outlook.co.th)
-- 🧠 I'm learning a mern stack
+- 🧠 I am currently studying Mern Stack.
 
 ### Skills
 
