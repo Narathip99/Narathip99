@@ -6,5 +6,5 @@ A web developer from Thailand
 - ✉️ You can contact me at [linkedin.com/in/narathip-tk](https://www.linkedin.com/in/narathip-tk/) or [narathip.tk@gmail.com](mailto:narathip.tk@gmail.com)
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=narathip99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="full" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=narathip99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
